@@ -201,7 +201,7 @@ artitalk:
   appKey: 
 editedArticle:
   enable: true
-  repo: https://xwwcyber.github.io/xww.github.io/
+  repo: https://github.com/xwwcyber/xwwcber.github.io
 #------------------------
 # minify config
 # css minify uses autoprefixer and clean-css
