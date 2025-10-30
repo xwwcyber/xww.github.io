@@ -5,7 +5,7 @@ author: xww
 # 将你的qq替换上去即可让网站的头像显示你为你qq的头像
 logo_img: https://thirdqq.qlogo.cn/ek_qqapp/AQVnr8QREa6INibZC4Expz3kqqh3QC0n23gujKR4rG0dfqPUCibKFrb72PLvaGQxyBZBOTIqgt/0
 author_img: https://thirdqq.qlogo.cn/ek_qqapp/AQVnr8QREa6INibZC4Expz3kqqh3QC0n23gujKR4rG0dfqPUCibKFrb72PLvaGQxyBZBOTIqgt/0
-author_description: 描述
+author_description: 天空是蔚蓝色
 #------------------------
 # Navbar config
 #------------------------
@@ -201,7 +201,7 @@ artitalk:
   appKey: 
 editedArticle:
   enable: true
-  repo: https://github.com/xwwcyber/xwwcber.github.io
+  repo: https://github.com/xwwcyber/xwwcyber.github.io
 #------------------------
 # minify config
 # css minify uses autoprefixer and clean-css
